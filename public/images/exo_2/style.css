@@ -1,0 +1,108 @@
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-Thin.otf");
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-ThinItalic.otf");
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-ExtraLight.otf");
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-ExtraLightItalic.otf");
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-Light.otf");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-LightItalic.otf");
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-Regular.otf");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-Italic.otf");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-Medium.otf");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-MediumItalic.otf");
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-SemiBold.otf");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-SemiBoldItalic.otf");
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-Bold.otf");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-BoldItalic.otf");
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-ExtraBold.otf");
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-ExtraBoldItalic.otf");
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-Black.otf");
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: exo2;
+    src: url("Exo2-BlackItalic.otf");
+    font-weight: 900;
+    font-style: italic;
+}
